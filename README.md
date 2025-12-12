@@ -44,9 +44,9 @@
   <a href="mailto:kapilkumargupta1511@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="[https://github.com/kapilk34](https://github.com/kapilk34)">
+  <!-- <a href="[https://github.com/kapilk34](https://github.com/kapilk34)">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  </a> -->
 </p>
 
 ---
