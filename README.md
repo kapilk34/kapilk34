@@ -39,10 +39,13 @@
 
 <p align="left">
   <a href="[https://www.linkedin.com/in/kapil-kumar-gupta](https://www.linkedin.com/in/kapil-kumar-gupta-9b7903296/)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:kapilkumargupta1511@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="[https://github.com/kapilk34](https://github.com/kapilk34)">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
