@@ -12,54 +12,18 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,c,c++,python,typescript,vscode,git,github" />
 </p>
 
-### 🗄 Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,jwt " />
 </p>
 
-### 🎨 Design Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-🔹 **🌐 Portfolio Website (Live)**  
-👉 *Showcases my work, skills, and creativity*  
-🔗 **https://YourPortfolioLink.com**
-
-🔹 **🧑‍⚖️ Lawyer–Client Platform**  
-👉 Connects lawyers with clients + real-time virtual support
-
-🔹 **📝 Online Exam Anti-Cheat System**  
-👉 Restricts tab switching, prevents back navigation, timed tests
-
-🔹 **📊 Expense Diary (React)**  
-👉 Tracks expenses, total amount, remaining balance with real-time updates
-
-🔹 **🎬 Promo Videos & Blog Creatives**  
-👉 Designed visuals for Rolex watches, luxury fashion, engagement rings, etc.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kapilk34&show_icons=true&theme=react" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilk34&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilk34&layout=compact&theme=react" />
 </p>
 
 ---
@@ -72,6 +36,9 @@
   </a>
   <a href="mailto:kapilkumargupta1511@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="[https://github.com/kapilk34](https://github.com/kapilk34)">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
