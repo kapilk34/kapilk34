@@ -28,9 +28,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,c,cpp,python,typescript" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,jwt" />
-  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,c,cpp,python,typescript,nodejs,express,mongodb,jwt,docker,vercel,git,github,vscode" />
 </p>
 
 <p align="left">
