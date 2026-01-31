@@ -50,11 +50,15 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 ---
 
-### ✨ **“Code + Creativity = Magic.”**  
-If you like my work, don’t forget to ⭐ star the repositories!
+<p align="center">
+  ✨ <b>“Code + Creativity = Magic.”</b><br>
+  If you like my work, don’t forget to ⭐ star the repositories!
+</p>
 
+---
 
 ## 👀 Profile Views
 
