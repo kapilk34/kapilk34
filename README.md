@@ -28,24 +28,19 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,c,cpp,python,typescript,nodejs,express,mongodb,jwt,docker,vercel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,jwt,docker,vercel,git,github,vscode" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="[https://www.linkedin.com/in/kapil-kumar-gupta](https://www.linkedin.com/in/kapil-kumar-gupta-9b7903296/)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:kapilkumargupta1511@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/kapilk34" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+
+📧 **Email:** kapilkumargupta1511@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/kapil-kumar-gupta-9b7903296/ 
+💻 **GitHub:** https://github.com/kapilk34
 
 ---
 
