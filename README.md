@@ -37,11 +37,19 @@
 
 ## 🌐 Connect With Me
 
-
-📧 **Email:** kapilkumargupta1511@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/kapil-kumar-gupta-9b7903296/ 
-💻 **GitHub:** https://github.com/kapilk34
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/kapil-kumar-gupta-9b7903296/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:kapilkumargupta1511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kapilk34" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### ✨ **“Code + Creativity = Magic.”**  
