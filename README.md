@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey 👋, I'm Kapil Kumar Gupta</h1>
+<h1 align="center">Hello Everyone, I'm Kapil Kumar Gupta</h1>
 <h3 align="center">Tech Enthusiast | Full-Stack Developer | Creative Graphic Designer</h3>
 
 ---
