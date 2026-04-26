@@ -38,14 +38,6 @@
   <img src="https://streak-stats.demolab.com?user=kapilk34&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapilk34&show_icons=true&theme=tokyonight" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilk34&theme=tokyo-night" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
