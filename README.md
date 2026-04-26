@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello Everyone, I'm Kapil Kumar Gupta</h1>
 <h3 align="center">Tech Enthusiast | Full-Stack Developer</h3>
 
@@ -21,16 +20,30 @@
 - 🎨 Developed **modular, responsive frontends** using **React, Next.js, Tailwind CSS, and Bootstrap**  
 - 🛠 Skilled in **Git**, collaborative development workflows, and deploying production apps on **Vercel**  
 
-
 ---
-
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" /><br>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,nodejs,express" /><br>
- <img src="https://skillicons.dev/icons?i=mongodb,java,docker,vercel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,java,docker,vercel,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 GitHub Insights
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kapilk34&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kapilk34&show_icons=true&theme=tokyonight" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilk34&theme=tokyo-night" />
 </p>
 
 ---
@@ -65,4 +78,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kapilk34&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-
