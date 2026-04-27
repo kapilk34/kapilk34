@@ -15,19 +15,20 @@
 ## 🚀 Experience & Skills
 
 - ⭐ Over **2+ years of full-stack web development** experience  
-- 🧩 Built scalable **backend services** using **Node.js, Express, and MongoDB**  
+- 🧩 Built scalable **backend services** using **Node.js, Express, MongoDB & SQL**  
 - 💳 Integrated **Razorpay, Stripe, QR payments**, and implemented **real-time updates** with **Socket.io**  
-- 🎨 Developed **modular, responsive frontends** using **React, Next.js, Tailwind CSS, and Bootstrap**  
-- 🛠 Skilled in **Git**, collaborative development workflows, and deploying production apps on **Vercel**  
+- 🔥 Experience working with **Firebase (Auth, Firestore, Realtime DB)**  
+- 🎨 Developed **modular, responsive frontends** using **React, Next.js, Tailwind CSS, Bootstrap**  
+- 🛠 Skilled in **JavaScript, TypeScript, Git**, collaborative workflows, and deploying apps on **Vercel**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" /><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,nodejs,express" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,java,docker,vercel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,nodejs,express,firebase" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,java,docker,vercel,git,github,vscode" />
 </p>
 
 ---
