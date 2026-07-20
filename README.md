@@ -71,6 +71,19 @@
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kapilk34&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilk34&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilk34&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## Connect With Me
 
 <p align="left">
@@ -104,13 +117,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapilk34&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilk34&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilk34&layout=compact&theme=tokyonight" />
-</p>
