@@ -55,7 +55,7 @@
   </tr>
 
   <tr>
-    <td align="center"><b> Tools</b></td>
+    <td align="center"><b> Tools & Platform</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
     </td>
