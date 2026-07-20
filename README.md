@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - *B.Tech (Computer Science & Design)* – PTU
-- A *Tech Enthusiast & Web Developer*, skilled in *React, Tailwind CSS, Node.js, MongoDB*
+- A *Tech Enthusiast & Web Developer*, skilled in *React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, SQL*
 - A *Creative Graphic Designer* with a passion for minimalist & modern digital experiences   
 - Always in *learning mode* — from fundamentals to cutting-edge tools and frameworks.
 - Enthusiastic about *coding, exploring new technologies, and crafting powerful, performance-focused applications*.
@@ -15,11 +15,11 @@
 ## 🚀 Experience & Skills
 
 - ⭐ Over **2+ years of full-stack web development** experience  
-- 🧩 Built scalable **backend services** using **Node.js, Express, MongoDB & SQL**  
+- 🧩 Built scalable **backend services** using **Node.js, Express, MongoDB & SQL, Firebase**  
 - 💳 Integrated **Razorpay, Stripe, QR payments**, and implemented **real-time updates** with **Socket.io**  
 - 🔥 Experience working with **Firebase (Auth, Firestore, Realtime DB)**  
 - 🎨 Developed **modular, responsive frontends** using **React, Next.js, Tailwind CSS, Bootstrap**  
-- 🛠 Skilled in **JavaScript, TypeScript, Git**, collaborative workflows, and deploying apps on **Vercel**
+- 🛠 Skilled in **JavaScript, TypeScript, Git**, collaborative workflows, and deploying apps on **Vercel, Render,  Netlify**
 
 ---
 
