@@ -57,14 +57,14 @@
   <tr>
     <td align="center"><b> Tools</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode, cursor, cluade, postman" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b> Deployment</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vercel, netlify, render" />
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
     </td>
   </tr>
 </table>
