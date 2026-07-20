@@ -101,3 +101,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kapilk34&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kapilk34&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilk34&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilk34&layout=compact&theme=tokyonight" />
+</p>
