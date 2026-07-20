@@ -25,48 +25,46 @@
 
 ## 🛠️ Tech Stack
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
 <table align="center">
   <tr>
-    <td align="center" width="220"><b>💻 Frontend</b></td>
+    <td align="center" width="220"><b> Frontend</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
     </td>
   </tr>
 
   <tr>
-    <td align="center"><b>⚙️ Backend</b></td>
+    <td align="center"><b> Backend</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
     </td>
   </tr>
 
   <tr>
-    <td align="center"><b>🗄️ Databases</b></td>
+    <td align="center"><b> Databases</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql, Firebase, PostgreSQL" />
     </td>
   </tr>
 
   <tr>
-    <td align="center"><b>👨‍💻 Languages</b></td>
+    <td align="center"><b> Languages</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+      <img src="https://skillicons.dev/icons?i=cpp,java,js,ts" />
     </td>
   </tr>
 
   <tr>
-    <td align="center"><b>🛠️ Tools</b></td>
+    <td align="center"><b> Tools</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode, Curser, Cluade, Postman" />
     </td>
   </tr>
 
   <tr>
-    <td align="center"><b>☁️ Deployment</b></td>
+    <td align="center"><b> Deployment</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vercel,firebase,supabase" />
+      <img src="https://skillicons.dev/icons?i=vercel, Netlify, Render" />
     </td>
   </tr>
 </table>
