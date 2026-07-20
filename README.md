@@ -4,11 +4,11 @@
 ---
 
 ## About Me
-- *B.Tech (Computer Science & Design)* – PTU
-- A *Tech Enthusiast & Web Developer*, skilled in *React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, SQL*
-- A *Creative Graphic Designer* with a passion for minimalist & modern digital experiences   
-- Always in *learning mode* — from fundamentals to cutting-edge tools and frameworks.
-- Enthusiastic about *coding, exploring new technologies, and crafting powerful, performance-focused applications*.
+- **B.Tech (Computer Science & Design)** – PTU
+- A **Tech Enthusiast & Web Developer**, skilled in **React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, SQL**
+- A **Creative Graphic Designer** with a passion for minimalist & modern digital experiences   
+- Always in **learning mode** — from fundamentals to cutting-edge tools and frameworks.
+- Enthusiastic about **coding, exploring new technologies, and crafting powerful, performance-focused applications**.
 
 ---
 
@@ -23,12 +23,36 @@
 
 ---
 
-## Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" /><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,nodejs,express,firebase,supabase" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,java,docker,vercel,git,github,vscode" />
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
+
+### 🛠️ Tools & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
+
+### ☁️ Deployment & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,firebase,supabase" />
 </p>
 
 ---
