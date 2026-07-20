@@ -25,35 +25,51 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-</p>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="220"><b>💻 Frontend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+    </td>
+  </tr>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
+    </td>
+  </tr>
 
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
-</p>
+  <tr>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    </td>
+  </tr>
 
-### 🛠️ Tools & Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-</p>
+  <tr>
+    <td align="center"><b>👨‍💻 Languages</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+    </td>
+  </tr>
 
-### ☁️ Deployment & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,firebase,supabase" />
-</p>
+  <tr>
+    <td align="center"><b>🛠️ Tools</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>☁️ Deployment</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel,firebase,supabase" />
+    </td>
+  </tr>
+</table>
 
 ---
 
