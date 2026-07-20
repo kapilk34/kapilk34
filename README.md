@@ -43,7 +43,7 @@
   <tr>
     <td align="center"><b> Databases</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql, Firebase, PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
     </td>
   </tr>
 
@@ -57,14 +57,14 @@
   <tr>
     <td align="center"><b> Tools</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode, Curser, Cluade, Postman" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode, cursor, cluade, postman" />
     </td>
   </tr>
 
   <tr>
     <td align="center"><b> Deployment</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vercel, Netlify, Render" />
+      <img src="https://skillicons.dev/icons?i=vercel, netlify, render" />
     </td>
   </tr>
 </table>
