@@ -76,18 +76,21 @@
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=kapilk34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=kapilk34&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Kapil's GitHub Stats"
   />
   <img
     height="180em"
-    src="https://github-readme-streak-vercel.vercel.app?user=kapilk34&theme=tokyonight"
+    src="https://github-readme-streak-vercel.vercel.app?user=kapilk34&theme=tokyonight&hide_border=true"
+    alt="Kapil's GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilk34&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilk34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
   />
 </p>
 
