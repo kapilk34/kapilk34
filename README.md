@@ -72,14 +72,15 @@
 ---
 
 ## Github Stats
+
 <p align="center">
-  <a href="https://github.com/kapilk34" target="_blank">
+  <!-- <a href="https://github.com/kapilk34" target="_blank">
     <img
       height="180"
       src="https://github-readme-stats.vercel.app/api?username=kapilk34&show_icons=true&theme=tokyonight&hide_border=true"
       alt="Kapil's GitHub Stats"
     />
-  </a>
+  </a> -->
 
   <a href="https://github.com/kapilk34" target="_blank">
     <img
@@ -90,7 +91,7 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/kapilk34?tab=repositories">
     <img
       height="180"
@@ -98,7 +99,7 @@
       alt="Top Languages"
     />
   </a>
-</p>
+</p> -->
 
 ---
 
