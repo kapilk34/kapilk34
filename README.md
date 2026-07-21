@@ -71,38 +71,6 @@
 
 ---
 
-## Github Stats
-
-<p align="center">
-  <!-- <a href="https://github.com/kapilk34" target="_blank">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=kapilk34&show_icons=true&theme=tokyonight&hide_border=true"
-      alt="Kapil's GitHub Stats"
-    />
-  </a> -->
-
-  <a href="https://github.com/kapilk34" target="_blank">
-    <img
-      height="180"
-      src="https://streak-stats.demolab.com?user=kapilk34&theme=tokyonight&hide_border=true"
-      alt="Kapil's GitHub Streak"
-    />
-  </a>
-</p>
-
-<!-- <p align="center">
-  <a href="https://github.com/kapilk34?tab=repositories">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilk34&layout=compact&theme=tokyonight&hide_border=true"
-      alt="Top Languages"
-    />
-  </a>
-</p> -->
-
----
-
 ## Connect With Me
 
 <p align="left">
