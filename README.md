@@ -74,24 +74,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=kapilk34&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Kapil's GitHub Stats"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-streak-vercel.vercel.app?user=kapilk34&theme=tokyonight&hide_border=true"
-    alt="Kapil's GitHub Streak"
-  />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kapilk34&show_icons=true&theme=tokyonight" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilk34&theme=tokyonight" /> 
+</p> 
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilk34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Top Languages"
-  />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilk34&layout=compact&theme=tokyonight" />
 </p>
 
 ---
