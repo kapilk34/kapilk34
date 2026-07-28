@@ -64,7 +64,7 @@
   <tr>
     <td align="center"><b> Deployment</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vercel,render" />
+      <img src="https://skillicons.dev/icons?i=vercel,Render,netlify,firebase" />
     </td>
   </tr>
 </table>
